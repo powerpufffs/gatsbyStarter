@@ -24,7 +24,6 @@
     "query-string": "^6.8.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-dom-confetti": "^0.1.1",
     "react-helmet": "^5.2.1",
     "react-pose": "^4.0.8",
     "webfontloader": "^1.6.28"
